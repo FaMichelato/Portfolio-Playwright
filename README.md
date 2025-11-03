@@ -5,7 +5,7 @@ Este é um projeto de testes automatizados utilizando Playwright para testar a a
 
 Estrutura do Projeto</br>
 playwright/e2e: Contém os arquivos de teste organizados em pastas e arquivos.</br>
-playwright/support: Arquivos de suporte para comandos personalizados e configuração do Cypress.</br>
+playwright/support: Arquivos de suporte para comandos personalizados e configuração do Playwrigth.</br>
 playwright.json: Arquivo de configuração do playwright.</br>
 
 Neste demostrativo realizo testes funcionais na tela de login e valido as funcionalidades de compra de produtos, sacola, checkout.
