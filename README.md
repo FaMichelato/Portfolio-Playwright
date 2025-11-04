@@ -10,6 +10,8 @@ playwright.json: Arquivo de configuração do playwright.</br>
 
 Neste demostrativo realizo testes funcionais na tela de login e valido as funcionalidades de compra de produtos, sacola, checkout.
 
+Não foi utilizado o WebDriver, pois o Playwright já possui ferramentas para utilização de browsers, ele tem o seu próprio mecanismo de controle de navegadores, mais moderno e direto. Ou seja, o Playwright não depende do WebDriver, mas cumpre a mesma função (controlar o navegador).
+
 Lembrando que é uma amostra de como eu estruturo os testes e quais métodos utilizo!
 
 ## Execução
